@@ -1,0 +1,5 @@
+The aim of this project is to create a Hearthstone Battlegrounds battle phase simulator.
+Managed to add almost all tier 1 and 2 minions. The battle results are simulated correctly
+most of the time. Sometimes however, the program errors.
+Someone managed to complete this project before me, and has distributed it for free, so I
+decided to stop development. 
